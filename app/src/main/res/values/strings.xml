@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">janina</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="Level">Level</string>
+    <string name="credit">credit</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="saveinfo">Save info</string>
+    <string name="viewall">view all info</string>
+</resources>
